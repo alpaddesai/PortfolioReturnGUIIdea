@@ -1,0 +1,10 @@
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\bin\Debug\PortfolioReturn.exe.config
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\bin\Debug\PortfolioReturn.exe
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\bin\Debug\PortfolioReturn.pdb
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.Properties.Resources.resources
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.csproj.GenerateResource.cache
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.csproj.CoreCompileInputs.cache
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.exe
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.pdb
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.Form1.resources
+C:\Users\ADG\source\repos\PortfolioReturn\PortfolioReturn\obj\Debug\PortfolioReturn.csprojAssemblyReference.cache
