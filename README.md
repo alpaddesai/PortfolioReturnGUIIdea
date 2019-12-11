@@ -6,3 +6,5 @@ The prediction  model is a custom prediction model on the United States SemiCond
 Company confidential information is not displayed. All images are either custom by Alpa D Desai. 
 
 ![Image of prediction model](PortfolioReturnGraphicalUserInterfaceImage.jpg) 
+
+![image](QuantitativeMethods.jpg)
