@@ -9,3 +9,5 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 ![Image of prediction model](PortfolioReturnGraphicalUserInterfaceImage.jpg) 
 
 ![image](QuantitativeMethods.jpg)
+
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
