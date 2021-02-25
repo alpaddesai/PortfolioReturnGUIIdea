@@ -10,4 +10,4 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 
 ![image](QuantitativeMethods.jpg)
 
-Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/InvestmentPortfolio
