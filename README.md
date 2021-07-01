@@ -10,4 +10,7 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 
 ![image](QuantitativeMethods.jpg)
 
+## Ethics and Excellence 
+![image](EthicsandExcellence.png)
+
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/InvestmentPortfolio
