@@ -8,8 +8,6 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 
 ![Image of prediction model](PortfolioReturnGraphicalUserInterfaceImage.jpg) 
 
-![image](QuantitativeMethods.jpg)
-
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
 
