@@ -11,4 +11,6 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
 
+![image](USCopyrightCertificate.png)
+
 Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/InvestmentPortfolio
