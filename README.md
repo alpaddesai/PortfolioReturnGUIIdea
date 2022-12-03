@@ -16,4 +16,4 @@ Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
 
 ![image](USCopyrightCertificate.png)
 
-Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea and https://github.com/alpaddesai/InvestmentPortfolio
+Additional reference : https://github.com/alpaddesai/InvestmentPortfolio
