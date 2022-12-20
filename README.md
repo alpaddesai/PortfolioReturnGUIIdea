@@ -4,8 +4,6 @@ The project consists of a custom investment portfolio with an initial individual
 
 Company confidential information is not displayed. All images are either custom by Alpa D Desai. 
 
-Advanced knowledge reference : https://github.com/alpaddesai/InvestmentPortfolio
-
 ![Image of prediction model](PortfolioReturnGraphicalUserInterfaceImage.jpg) 
 
 ## Exam
