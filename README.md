@@ -6,9 +6,6 @@ Company confidential information is not displayed. All images are either custom 
 
 ![Image of prediction model](PortfolioReturnGraphicalUserInterfaceImage.jpg) 
 
-## Exam
-![image](CFAExam.jpg)
-
 ## Ethics and Excellence 
 ![image](EthicsandExcellence.png)
 
