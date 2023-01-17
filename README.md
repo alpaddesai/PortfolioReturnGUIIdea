@@ -11,4 +11,4 @@ Company confidential information is not displayed. All images are either custom 
 
 ![image](USCopyrightCertificate.png)
 
-Additional reference : https://github.com/alpaddesai/InvestmentPortfolio
+Additional reference : https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
